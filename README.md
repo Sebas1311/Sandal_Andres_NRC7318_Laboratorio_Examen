@@ -3,6 +3,13 @@
                                               Universidad de las Fuerzas Armadas - ESPE
                                                Fundamentos de Circuitos Electróinicos
 Nombre: Andrés Sandal
+
+Fecha de entrega: 16/08/2022
+
+NRC: 7318
+
+                                                CORRECIÓN DEL EXAMEN DE LABORATORIO
+                                                
 1. Objetivos
 
 1.1. Objetivos General:
