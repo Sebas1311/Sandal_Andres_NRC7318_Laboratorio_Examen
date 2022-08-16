@@ -25,9 +25,7 @@ Determinar el proceso correcto del ensamblaje de los circuitos expuestos en el e
 - Diseñar, o crear el circuito en el simulador adecuado para poder comprobar la ley que se menciona en cada enunciado.
 
 2. Marco Teorico:
-
 ![image](https://user-images.githubusercontent.com/105687213/177677385-88625e4f-ea07-43b1-b410-ee8f07080cf7.png)
-
 ![image](https://user-images.githubusercontent.com/105684550/176568097-9b272cf8-718d-4717-b79f-f1c7412c1c9e.png)
 
 3. Requisitos Previos:
