@@ -29,8 +29,9 @@ Determinar el proceso correcto del ensamblaje de los circuitos expuestos en el e
 ![image](https://user-images.githubusercontent.com/105684550/176568097-9b272cf8-718d-4717-b79f-f1c7412c1c9e.png)
 
 3. Requisitos Previos:
-
-
+![image](https://user-images.githubusercontent.com/105684550/184892607-174dd50e-6d50-46ae-b52b-b61caca049c7.png)
+![image](https://user-images.githubusercontent.com/105684550/184892634-53ed950a-c87e-47d4-aad3-15eff133a0bd.png)
+![image](https://user-images.githubusercontent.com/105684550/184892664-f4998829-f0e0-4b69-bbda-d149f7691a11.png)
 
 4. Materiales y equipos requeridos
 
