@@ -39,6 +39,18 @@ Determinar el proceso correcto del ensamblaje de los circuitos expuestos en el e
 
 5. Resolución
 
+                                                     Pregunta 1
+![image](https://user-images.githubusercontent.com/105684550/184903913-26a3db15-6ca0-4735-9bb6-4fa0b042152a.png)
+- Voltaje de Thevenin:
+![image](https://user-images.githubusercontent.com/105684550/184903936-0431f339-5c5a-41dd-8b60-c1f0977c724a.png)
+- Resistencia de Thevenin:
+![image](https://user-images.githubusercontent.com/105684550/184903966-faab2759-0660-48bf-971c-36aa61d6ec31.png)
+- Circuito de Thevenin:
+![image](https://user-images.githubusercontent.com/105684550/184903993-09b2f61d-72d6-4019-826c-74b17cc893a4.png)
+
+
+- Pregunta 2:
+- Pregunta 3:
 
 6. Video
 
