@@ -58,12 +58,16 @@ Determinar el proceso correcto del ensamblaje de los circuitos expuestos en el e
 ![image](https://user-images.githubusercontent.com/105684550/184925113-159bf032-410c-4296-98a7-c67fc7b35309.png)
 
                                                         Pregunta 3:
+- Circuito normal:
+![image](https://user-images.githubusercontent.com/105684550/184928639-4b016103-46f6-419c-8bf8-df5c03c32c8b.png)
 
+- Primer fuente:
+![image](https://user-images.githubusercontent.com/105684550/184928667-f8d2f979-5a03-4671-8854-f66abc561db2.png)
 
-6. Video
+-Segunda fuente:
+![image](https://user-images.githubusercontent.com/105684550/184928697-90cf073d-5323-4fde-9219-c24c6b33dd65.png)
 
-
-7. Conclusiones
+6. Conclusiones
 
 - Se ha pidido concluir que la transferencia de potencia máxima no coincide con la eficiencia máxima. La aplicación del teorema de la máxima transferencia de energía a el reparto de energía de CA no dará como consecuencia una eficiencia máxima; Sino mas bien la finalidad de la alta eficiencia es más relevante para el reparto de energía de CA, que dicta una impedancia del generador subjetivamente baja comparativamente con la impedancia de carga. 
 
@@ -71,6 +75,6 @@ Determinar el proceso correcto del ensamblaje de los circuitos expuestos en el e
 
 - Para finalizar, el teorema de transferencia de potencia máxima no es tanto un medio de estudio como una ayuda para el diseño del sistema, es decir, la porción máxima de energía se disipará por una resistencia de carga una vez que dicha resistencia de carga sea igual a la resistencia de Thevenin/Norton de la red que suministra la energía.
 
-8. Bibliografía
+7. Bibliografía
 
 Floyd, TL (2007). Principios de Circuitos Eléctricos. CDMX: Persona Educación.
