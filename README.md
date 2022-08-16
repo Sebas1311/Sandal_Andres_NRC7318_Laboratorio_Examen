@@ -14,15 +14,15 @@ NRC: 7318
 
 1.1. Objetivos General:
 
-Determinar la fórmula y el proceso que con lleva el Teorema de transferencia de potencia máxima en conjunto con sus características principales, para poder aplicarlo en la simplificación y resolución del ejercicio planteado para finalizar con la verificación del proceso por medio del correcto uso de las leyes fundamentales (ley de ohm y Kirchhoff).
+Determinar el proceso correcto del ensamblaje de los circuitos expuestos en el examen de laboratorio, en base a observar el esquema y poder armarlo en los simuladores determinados, con el fin de comprobar los conocimientos aprendidos y el manejo de los simuladores, sin mencionar que se desea comprobar ciertas leyes o temas expuestos en clase.
 
 1.2. OBjetivos especificos:
 
-- Identificar la relación existente o no existente entre el teorema de transferencia máxima de potencia con la eficiencia en una distribución de energía de CA.
+- Analizar profundamente el esquema dado en el examen, para poder identificar las partes e instrumentos requeridos para su ensamblaje.
 
--Definir los pasos o el proceso a seguir para aplicar el Teorema de transferencia máxima de potencia de la manera adecuada.
+- Definir, en base al análisis previo, cual de los simuladores es el adecuado o el más completo para poder ensamblar correctamente cada uno de los esquemas.
 
--Exponer el papel que ocupa una resistencia de carga en la aplicación del teorema de transferencia de potencia máxima, y como este llega a ser de gran importancia.
+- Diseñar, o crear el circuito en el simulador adecuado para poder comprobar la ley que se menciona en cada enunciado.
 
 2. Marco Teorico:
 
