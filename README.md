@@ -64,7 +64,7 @@ Determinar el proceso correcto del ensamblaje de los circuitos expuestos en el e
 - Primer fuente:
 ![image](https://user-images.githubusercontent.com/105684550/184928667-f8d2f979-5a03-4671-8854-f66abc561db2.png)
 
--Segunda fuente:
+- Segunda fuente:
 ![image](https://user-images.githubusercontent.com/105684550/184928697-90cf073d-5323-4fde-9219-c24c6b33dd65.png)
 
 6. Conclusiones
