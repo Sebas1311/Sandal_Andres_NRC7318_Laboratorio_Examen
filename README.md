@@ -26,6 +26,7 @@ Determinar el proceso correcto del ensamblaje de los circuitos expuestos en el e
 
 2. Marco Teorico:
 
+![image](https://user-images.githubusercontent.com/105684550/176568097-9b272cf8-718d-4717-b79f-f1c7412c1c9e.png)
 
 3. Requisitos Previos:
 
