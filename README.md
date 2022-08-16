@@ -33,6 +33,7 @@ Determinar el proceso correcto del ensamblaje de los circuitos expuestos en el e
 
 4. Materiales y equipos requeridos
 
+![image](https://user-images.githubusercontent.com/105684550/184891197-22309e1e-47f0-4b51-86cb-0aea45a75976.png)
 
 5. Resolución
 
